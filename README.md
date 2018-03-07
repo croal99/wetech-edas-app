@@ -1,6 +1,6 @@
 # wetech-edas-app
 
-SSM整合阿里云EDAS服务示例工程，使用前请先访问https://help.aliyun.com/document_detail/44158.html熟悉EDAS开发指南！
+SSM整合阿里云EDAS服务示例工程，使用前请先访问[https://help.aliyun.com/document_detail/44158.html ](https://help.aliyun.com/document_detail/44158.html ) 熟悉EDAS开发指南！
 
 ## 模块介绍
 
