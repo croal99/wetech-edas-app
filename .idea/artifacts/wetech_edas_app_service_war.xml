@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="wetech-edas-app-service:war">
-    <output-path>$PROJECT_DIR$/wetech-edas-app-service/target</output-path>
-    <root id="archive" name="wetech-edas-app-service-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="wetech-edas-app-service:war exploded" />
-    </root>
-  </artifact>
-</component>
