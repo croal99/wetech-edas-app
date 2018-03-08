@@ -2,15 +2,25 @@
 
 SSM整合阿里云EDAS服务示例工程，使用前请先访问[https://help.aliyun.com/document_detail/44158.html ](https://help.aliyun.com/document_detail/44158.html ) 熟悉EDAS开发指南！
 
+## 组织结构
+
+```
+wetech-edas-app
+├── wetech-edas-app-api -- 提供接口定义
+├── wetech-edas-app-common -- SSM框架公共模块
+├── wetech-edas-app-service -- 服务提供者应用
+└── wetech-edas-app-web -- 消费者应用
+```
+
 ## 模块介绍
 
 1. wetech-edas-app-parent
 
-> 是所有子模块的父类，同时也是项目聚合器，以及版本申明管理，无实质代码
+> 是所有子模块的父工程，同时也是项目聚合器，以及版本申明管理，无实质代码
 
 2. wetech-edas-app-common
 
-> 主要是放一些通用工具类
+> 公共模块，可以放一些通用工具类
 
 3. wetech-edas-app-api
 
